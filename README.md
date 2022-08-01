@@ -1,7 +1,8 @@
 # APIREST
 
   Essa aplicação foi desenvolvida para fins de estudos.
-  Api rest, CRUD, deploy no Heroku. 
+  
+  API Rest, CRUD, deploy no Heroku. 
 
 # Back-End:
 
