@@ -2,7 +2,7 @@
 
   Essa aplicação foi desenvolvida para fins de estudos.
   
-  API Rest, CRUD, deploy no Heroku. 
+  API Rest, CRUD de Produtos com database em memória(H2), deploy no Heroku(Link na descrição). 
 
 # Back-End:
 
